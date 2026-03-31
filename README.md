@@ -30,11 +30,11 @@ In addition to the written audit, the project delivers five Bash shell scripts t
 oss-audit-24BCY10276/
 ├── README.md
 ├── scripts/
-│   ├── script1_system_identity.sh
-│   ├── script2_package_inspector.sh
-│   ├── script3_disk_auditor.sh
-│   ├── script4_log_analyzer.sh
-│   └── script5_manifesto_generator.sh
+│   ├── script1.sh
+│   ├── script2.sh
+│   ├── script3.sh
+│   ├── script4.sh
+│   └── script5.sh
 └── screenshots/
     ├── script1_system_identity.png
     ├── script2_package_inspector.png
